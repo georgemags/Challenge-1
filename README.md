@@ -2,7 +2,7 @@
 ## A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-GIVEN a webpage meets accessibility standards
+## a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
